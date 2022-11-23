@@ -1,0 +1,7 @@
+sudo touch 01-hola-mundo.sh
+sudo nano 01-hola-mundo.sh
+“Hola mundo!”
+echo Hola mundo
+“ctrl s y ctrl x para guardar y salir”
+sudo chmod +x ./01-hola-mundo.sh
+sudo ./01-hola-mundo.sh
